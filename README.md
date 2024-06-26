@@ -1,6 +1,6 @@
 # React Native Assignment 5
 
-This repository contains the code for the fifth assignment of my React Native course. The task was to recreate a UI mockup, implement a dark and light theme switch feature, and style the application to match the provided design closely. Custom components were used throughout the application.
+This repository contains the code for the fifth assignment of my Mobile Application course. The task was to recreate a UI mockup, implement a dark and light theme switch feature, and style the application to match the provided design closely. Custom components were used throughout the application.
 
 ## Table of Contents
 
