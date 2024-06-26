@@ -8,7 +8,7 @@ import Mycards from "./src/Mycards";
 import Statistics from "./src/Statistics";
 import Icon from "react-native-vector-icons/Ionicons";
 
-// Create a Theme Context
+
 export const ThemeContext = createContext();
 
 const Tab = createBottomTabNavigator();
