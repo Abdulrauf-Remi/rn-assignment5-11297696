@@ -18,10 +18,10 @@ This repository contains the code for the fifth assignment of my React Native co
 
 ## Screenshots
 
-![Home Screen Light](./Screen%201%20light.jpg)
-![Settings Screen Light](./Screen%202%20light.jpg)
-![Home Screen Dark](./Screen%201%20Dark.jpg)
-![Settings Screen Dark](./Screen%202%20Dark.jpg)
+![Home Screen Light](Screen_shot/Screen%201%20light.jpg)
+![Settings Screen Light](Screen_shot/Screen%202%20light.jpg)
+![Home Screen Dark](Screen_shot/Screen%201%20Dark.jpg)
+![Settings Screen Dark](.Screen_shot/Screen%202%20Dark.jpg)
 
 ## How I Built the Application
 
